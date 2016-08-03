@@ -67,10 +67,10 @@ It looks like rain is much trickier. There seems to be a bit of a seasonal cycle
 
 ## Summary: So what did we learn?
 
-1- For the range of temperatures we would prefer, we should choose a date between May 30 and October 2.
+1- For a minimum max temperature above 75, we should choose a date between May 30 and October 2.
 
 2- It's very hard to predict rain. During this time of year, rain is usually from localized, intermittent thunderstorms. We might just have to hope for good luck. At least the thunderstorms don't usually last very long, so we can probably wait it out. And I like watching them too :).
 
-3- I do know from personal experience that thunderstorms tend to occur in the afternoon/evening. So a morning ceremony might be safer.
+3- I do know from personal experience that thunderstorms tend to occur in the afternoon/evening. So a morning ceremony might be safer. It might be interesting to get some higher-frequency rain data to look at this further.
 
 4- It would be interesting to look at other locations and where there is more historical data to see how variable these patterns are.
